@@ -1,6 +1,6 @@
 ﻿namespace Tarea_5_mongodb
 {
-    partial class Form1
+    partial class Menu
     {
         /// <summary>
         /// Variable del diseñador necesaria.
