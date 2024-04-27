@@ -16,5 +16,10 @@ namespace Tarea_5_mongodb
         {
             InitializeComponent();
         }
+
+        private void Create_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
